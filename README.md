@@ -18,7 +18,7 @@ Instead of storing every conversation, this agent reflects, evaluates, and selec
 
 ## 🧩 System Architecture
 
-![Architecture Diagram](diagrams/architecture.png)
+![Architecture Diagram](diagrams/Architecture.png)
 
 - **Reflection Agent**: Analyzes conversation, scores importance, decides what to store.  
 - **Memory Importance Scoring**: Ensures only high-value memories are persisted.  
