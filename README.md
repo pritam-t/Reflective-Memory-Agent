@@ -95,4 +95,6 @@ Reflective-Memory-Agent/\n
 🏷️ License
 ```
 
-# MIT License – free to use, modify, and experiment with.
+## MIT License
+
+Copyright (c) 2026 Pritam Thopate
